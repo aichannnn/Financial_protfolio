@@ -4,7 +4,7 @@
 The **Financial Dashboard** is a React-based web application that provides users with interactive data visualization of investment strategies, benchmark comparisons, and drawdown analysis. The UI design is inspired by **CapitalMind** to ensure a clean and intuitive experience.
 
 ## 🚀 Live Demo
-🔗 [Financial Dashboard](https://financialll-dashboard.netlify.app/)
+🔗 [Financial Dashboard](https://financial-dashboard-uii.netlify.app/)
 
 ## ✨ Features
 - **Equity Curve Visualization** – Track and compare strategy performance.
